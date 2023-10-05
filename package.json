@@ -1,4 +1,5 @@
 {
+  "homepage": "http://santier30.github.io/BC_Proyecto_int_React",
   "name": "bc_proyecto_int__santiago-hrybreact",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build",
     "compile-sass": "sass ./src/Components/SASS",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
