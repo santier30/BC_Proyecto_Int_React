@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 
-    <BrowserRouter basename='https://santier30.github.io/BC_Proyecto_int_React/'>
+    <BrowserRouter basename='/BC_Proyecto_int_React'>
     <App />
   </BrowserRouter>
 );
