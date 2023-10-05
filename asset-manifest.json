@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BC_Proyecto_int_React/static/css/main.5c22abbc.css",
-    "main.js": "/BC_Proyecto_int_React/static/js/main.083a54e2.js",
+    "main.js": "/BC_Proyecto_int_React/static/js/main.993a699a.js",
     "static/js/787.03802fb9.chunk.js": "/BC_Proyecto_int_React/static/js/787.03802fb9.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -20,11 +20,11 @@
     "static/media/macro-red-wine-black-background-abstract-splashing-ai-generation_201606-6822.avif": "/BC_Proyecto_int_React/static/media/macro-red-wine-black-background-abstract-splashing-ai-generation_201606-6822.63df5fc618306da18b39.avif",
     "index.html": "/BC_Proyecto_int_React/index.html",
     "main.5c22abbc.css.map": "/BC_Proyecto_int_React/static/css/main.5c22abbc.css.map",
-    "main.083a54e2.js.map": "/BC_Proyecto_int_React/static/js/main.083a54e2.js.map",
+    "main.993a699a.js.map": "/BC_Proyecto_int_React/static/js/main.993a699a.js.map",
     "787.03802fb9.chunk.js.map": "/BC_Proyecto_int_React/static/js/787.03802fb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c22abbc.css",
-    "static/js/main.083a54e2.js"
+    "static/js/main.993a699a.js"
   ]
 }
