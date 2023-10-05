@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BC_Proyecto_int_React/static/css/main.5c22abbc.css",
+    "main.js": "/BC_Proyecto_int_React/static/js/main.0e321b05.js",
+    "static/js/787.03802fb9.chunk.js": "/BC_Proyecto_int_React/static/js/787.03802fb9.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/vineyard.jpg": "/BC_Proyecto_int_React/static/media/vineyard.74e921e65bfcb79a8a26.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Estuche-Rutini-Extra-BrutBIG.webp": "/BC_Proyecto_int_React/static/media/Estuche-Rutini-Extra-BrutBIG.1f6cbfa1dcc825a414df.webp",
+    "static/media/wooden-vs-metal-wine-rack_0382a1e9-1839-4a0d-91c7-1dd5c5b55ca8.jpg": "/BC_Proyecto_int_React/static/media/wooden-vs-metal-wine-rack_0382a1e9-1839-4a0d-91c7-1dd5c5b55ca8.7cc1c0341a54b23f7557.jpg",
+    "static/media/Dominio-ChardonnayBIG.webp": "/BC_Proyecto_int_React/static/media/Dominio-ChardonnayBIG.c3f0fada8859a5d71958.webp",
+    "static/media/TableWine.webp": "/BC_Proyecto_int_React/static/media/TableWine.efdc57a0b1ab33fe8b24.webp",
+    "static/media/Antologia-XXXVIII--38--Doble-MagnumBIG.webp": "/BC_Proyecto_int_React/static/media/Antologia-XXXVIII--38--Doble-MagnumBIG.4475d84ce4397c98b1ab.webp",
+    "static/media/Trumpeter-MalbecBIG.webp": "/BC_Proyecto_int_React/static/media/Trumpeter-MalbecBIG.cc11966140b00d9953d0.webp",
+    "static/media/Trumpeter-Reserve-Rose-de-MalbecBIG.webp": "/BC_Proyecto_int_React/static/media/Trumpeter-Reserve-Rose-de-MalbecBIG.901a4b8352a5e4ecbdb9.webp",
+    "static/media/Trumpeter-Reserve-BlendBIG.webp": "/BC_Proyecto_int_React/static/media/Trumpeter-Reserve-BlendBIG.cfd2289c9abe4ab653ed.webp",
+    "static/media/macro-red-wine-black-background-abstract-splashing-ai-generation_201606-6822.avif": "/BC_Proyecto_int_React/static/media/macro-red-wine-black-background-abstract-splashing-ai-generation_201606-6822.63df5fc618306da18b39.avif",
+    "index.html": "/BC_Proyecto_int_React/index.html",
+    "main.5c22abbc.css.map": "/BC_Proyecto_int_React/static/css/main.5c22abbc.css.map",
+    "main.0e321b05.js.map": "/BC_Proyecto_int_React/static/js/main.0e321b05.js.map",
+    "787.03802fb9.chunk.js.map": "/BC_Proyecto_int_React/static/js/787.03802fb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c22abbc.css",
+    "static/js/main.0e321b05.js"
+  ]
+}
