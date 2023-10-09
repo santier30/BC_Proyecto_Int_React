@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BC_Proyecto_int_React/static/css/main.5c22abbc.css",
-    "main.js": "/BC_Proyecto_int_React/static/js/main.083a54e2.js",
+    "main.css": "/BC_Proyecto_int_React/static/css/main.6cdb7fba.css",
+    "main.js": "/BC_Proyecto_int_React/static/js/main.3b89a33c.js",
     "static/js/787.03802fb9.chunk.js": "/BC_Proyecto_int_React/static/js/787.03802fb9.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/BC_Proyecto_int_React/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -19,12 +19,12 @@
     "static/media/Trumpeter-Reserve-BlendBIG.webp": "/BC_Proyecto_int_React/static/media/Trumpeter-Reserve-BlendBIG.cfd2289c9abe4ab653ed.webp",
     "static/media/macro-red-wine-black-background-abstract-splashing-ai-generation_201606-6822.avif": "/BC_Proyecto_int_React/static/media/macro-red-wine-black-background-abstract-splashing-ai-generation_201606-6822.63df5fc618306da18b39.avif",
     "index.html": "/BC_Proyecto_int_React/index.html",
-    "main.5c22abbc.css.map": "/BC_Proyecto_int_React/static/css/main.5c22abbc.css.map",
-    "main.083a54e2.js.map": "/BC_Proyecto_int_React/static/js/main.083a54e2.js.map",
+    "main.6cdb7fba.css.map": "/BC_Proyecto_int_React/static/css/main.6cdb7fba.css.map",
+    "main.3b89a33c.js.map": "/BC_Proyecto_int_React/static/js/main.3b89a33c.js.map",
     "787.03802fb9.chunk.js.map": "/BC_Proyecto_int_React/static/js/787.03802fb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c22abbc.css",
-    "static/js/main.083a54e2.js"
+    "static/css/main.6cdb7fba.css",
+    "static/js/main.3b89a33c.js"
   ]
 }
