@@ -15,7 +15,9 @@ const wineImages = {
   '../../img/Trumpeter-Reserve-Rose-de-MalbecBIG.webp': img6,
 };
 const Wine = ({wine})=>{
-  let image = wineImages[ wine.image]!==undefined?wineImages[wine.image]: wine.image;
+  let image = wineImages[wine.image]!==undefined?wineImages[wine.image]: wine.image;
+
+
   const ctx = useContext(CartContext)
 
 const Add = ()=>{

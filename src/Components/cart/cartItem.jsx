@@ -7,7 +7,7 @@ const CartItem = (props)=>{
       }
     return(
         <div className="cart_item">
-        <img src={props.Img.replace("BIG.webp", "-Module.webp")} alt="" className="cart-img"/>
+        <img src={props.Img} alt="" className="cart-img"/>
         <div className="cart_item_content">
           <h3>{props.Name}</h3>
           <p>{props.Price}</p>

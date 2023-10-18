@@ -2,6 +2,7 @@ import CartItem from "./cartItem"
 const Cart = (props)=>{
   const inCartFood = props.cartItem
   .filter((dish) => dish.Amount > 0);
+  
     return(
         <section className={"cart "+props.displayState} id="cart_section">
         <article className="cart_items" id="Cart-items">

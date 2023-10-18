@@ -12,8 +12,9 @@ function Menu(props) {
 
   useEffect(() => {
     const pageName = currentPath.split('/').filter(Boolean)[0];
-    setActive({ [pageName]: "active" });
+    setActive(pageName!== undefined ?{ [pageName]: "active" }:{Shop:'active'});
   }, [currentPath]);
+  console.log(active);
 
   const setHamburgerStatus = () =>{
 
@@ -32,7 +33,7 @@ function Menu(props) {
               <div className="bar"></div>
             </div>
             <menu className={"nav_menu "+open.menu}>
-            <li className={"nav_li "+open.link}><Link to="/Shop" className={"nav_Link "+active.Shop}  >Shop</Link> </li>
+            <li className={"nav_li "+open.link}><Link to="/Shop" className={"nav_Link "+active.Shop}  >Tienda</Link> </li>
             <li className={"nav_li "+open.link}><Link to="/Alta" className={"nav_Link "+active.Alta}  >Alta</Link></li>
             <li className={"nav_li "+open.link}><Link to="/Contactos" className={"nav_Link "+active.Contactos}  >Contactos</Link></li>
             <li className={"nav_li "+open.link}><Link to="/SobreNosotros" className={"nav_Link "+active.SobreNosotros}  >Sobre Nosotros</Link></li>

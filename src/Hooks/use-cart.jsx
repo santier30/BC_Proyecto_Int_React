@@ -24,10 +24,11 @@ const useCart=()=>{
         }
       };
       
-      const savedCartData = localStorage.getItem("cartItems");
+      const savedCartData = localStorage.getItem("cartItems")
+
       const initialState = savedCartData ? JSON.parse(savedCartData) : [];
     
-      const [cartItems, dispatchCartItems] = useReducer(cartReducer, initialState);
+      const [cartItems, dispatchCartItems] = useReducer(cartReducer, initialState.filter(item => item.Amount === 0));
       
         const addToCartHandler = (Name, Img, Price) => {
           const Item = { Name: Name, Price: Price, Img: Img, Amount: 1 };
