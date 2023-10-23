@@ -6,6 +6,8 @@
     position: fixed;
     top: 63px;
     right: 2%;
+    max-height: 80vh;
+    overflow: auto;
     width: 100% ;//es solo para que se vea en movile por ahora en el proyecto final no se veria el modal y simpleente iria a la pag del carrito
     box-shadow: 0 0 5px $secondary-color;
     
